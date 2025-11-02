@@ -1,1 +1,10 @@
 
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn
+gunicorn
+python-multipart
+huggingface_hub
+torch
+torchvision
+git+https://github.com/iMoonLab/yolov13.git
